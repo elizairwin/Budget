@@ -11,7 +11,7 @@ When brought back online: Offline entries added to tracker.
 * Configured PWA
 
 ## Technology Used:
-* Node.js
+* JavaScript
 
 ## Instructions for Use:
 1. Open up command line
